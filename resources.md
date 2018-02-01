@@ -46,9 +46,9 @@ https://eligo-bioscience.com/
 - Japanese HIT Metagenome project with data of people with illnesses (Could not find IBS data):
      https://humandbs.biosciencedbc.jp/en/
 
+- GenomeSync Database: www.genomesync.org
 
-
-# Libraries from microbial analysis:
+# Libraries and tools from microbial analysis:
   - QIIME based python 
     - http://phylotoast.org
     - Qiime 2: https://qiime2.org
@@ -63,6 +63,11 @@ https://eligo-bioscience.com/
     - Slides (In slides 5-7 shows a list of all the existing computational research workflow systems):  https://docs.google.com/presentation/d/1bNJo2JTE3bqv6WnWJOmvBsg_ZKDID3KjsNvtE4JrT34/edit#slide=id.p4
     - Documentation: http://www.commonwl.org/v1.0/CommandLineTool.html
 - SGIDNA proprietary software: https://www.sgidna.com/archetype.html
+
+    - Oxford Nanopore Metrichor base-calling (Cloud based) 
+    - NanonetRNN Basecaller  (Local)  https://github.com/nanoporetech/nanonet
+    - Poretools https://github.com/arq5x/poretools
+    - Centrifuge (Classifier for metagenomic sequences) , I think this is what makes classification very fast: https://ccb.jhu.edu/software/centrifuge/manual.shtml
 
 # FMT
 
