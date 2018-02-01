@@ -64,10 +64,10 @@ https://eligo-bioscience.com/
     - Documentation: http://www.commonwl.org/v1.0/CommandLineTool.html
 - SGIDNA proprietary software: https://www.sgidna.com/archetype.html
 
-    - Oxford Nanopore Metrichor base-calling (Cloud based) 
-    - NanonetRNN Basecaller  (Local)  https://github.com/nanoporetech/nanonet
-    - Poretools https://github.com/arq5x/poretools
-    - Centrifuge (Classifier for metagenomic sequences) , I think this is what makes classification very fast: https://ccb.jhu.edu/software/centrifuge/manual.shtml
+ - Oxford Nanopore Metrichor base-calling (Cloud based) 
+ - NanonetRNN Basecaller  (Local)  https://github.com/nanoporetech/nanonet
+ - Poretools https://github.com/arq5x/poretools
+ - Centrifuge (Classifier for metagenomic sequences) , I think this is what makes classification very fast: https://ccb.jhu.edu/software/centrifuge/manual.shtml
 
 # FMT
 
