@@ -50,6 +50,24 @@ https://eligo-bioscience.com/
 - Japanese HIT Metagenome project with data of people with illnesses (Could not find IBS data):
      https://humandbs.biosciencedbc.jp/en/
 
+
+
+# Libraries from microbial analysis:
+  - QIIME based python 
+    - http://phylotoast.org
+    - Qiime 2: https://qiime2.org
+  - Mothur: 
+    - https://www.mothur.org/wiki/Main_Page , 
+    - https://www.mothur.org/wiki/Classify.seqs
+  - Build taxonomy from raw 16s rRNA fasta files: https://grunwaldlab.github.io/metacoder_documentation/vignettes--01--extracting_taxonomy_data.html
+  - R library to do analysis of microbiological communities: https://joey711.github.io/phyloseq/
+  - Silva Tree Viewer http://treeviewer.mpi-bremen.de/tree_viewer_public/#13/79.9418/0.0748
+- Very cool app to track and manage wet lab experiments: http://findingsapp.com
+- Metagenomics workflow standard attempt "Common Workflow Language":
+    - Slides (In slides 5-7 shows a list of all the existing computational research workflow systems):  https://docs.google.com/presentation/d/1bNJo2JTE3bqv6WnWJOmvBsg_ZKDID3KjsNvtE4JrT34/edit#slide=id.p4
+    - Documentation: http://www.commonwl.org/v1.0/CommandLineTool.html
+- SGIDNA proprietary software: https://www.sgidna.com/archetype.html
+
 # FMT
 
 ## Open Biome
