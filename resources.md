@@ -48,6 +48,28 @@ https://eligo-bioscience.com/
 
 - GenomeSync Database: www.genomesync.org
 
+- Collection of Pathway/Genome Databases from the Human Gut http://www.gutcyc.org/
+
+- Tons of data of people with IBD (Even metabolites)
+  - https://ibdmdb.org/tunnel/public/summary.html
+
+- Prediabetics 16s rRNA dataset
+    http://hmp2-data.stanford.edu
+
+- 7 samples of people with SIBO
+  - http://www.ebi.ac.uk/biosamples/search?searchTerm=sibo&rows=10&start=0&useFuzzySearch=false&filters=bodyProductFilter%7CUBERON%3Afeces%2CbodySiteFilter%7CUBERON%3Afeces
+  
+- Ribosomal database project:
+  - RDP provides quality-controlled, aligned and annotated Bacterial and Archaeal 16S rRNA sequences, and Fungal 28S rRNA sequences, and a suite of analysis tools to the scientific community. https://rdp.cme.msu.edu
+
+- Metahit http://www.metahit.eu 
+  
+- My New Gut http://www.mynewgut.eu/
+  
+- Greengenes project, (Healthy subjects)
+  It looks like a dying project but they have tons of open 16s rRNA data
+  - http://greengenes.secondgenome.com/downloads
+
 # Libraries and tools from microbial analysis:
   - QIIME based python 
     - http://phylotoast.org
@@ -63,7 +85,6 @@ https://eligo-bioscience.com/
     - Slides (In slides 5-7 shows a list of all the existing computational research workflow systems):  https://docs.google.com/presentation/d/1bNJo2JTE3bqv6WnWJOmvBsg_ZKDID3KjsNvtE4JrT34/edit#slide=id.p4
     - Documentation: http://www.commonwl.org/v1.0/CommandLineTool.html
 - SGIDNA proprietary software: https://www.sgidna.com/archetype.html
-
  - Oxford Nanopore Metrichor base-calling (Cloud based) 
  - NanonetRNN Basecaller  (Local)  https://github.com/nanoporetech/nanonet
  - Poretools https://github.com/arq5x/poretools
