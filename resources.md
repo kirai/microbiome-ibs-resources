@@ -1,7 +1,3 @@
-
-
-
-
 # Microbiome startups
 
 ## OneCodex
