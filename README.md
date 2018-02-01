@@ -1,4 +1,9 @@
 # microbiome-ibs-resources
 
-List of Microbiome - IBS and also SIBO specific resources
+Microbiome, IBS and also SIBO resources
 
+Index of files:
+
+- [General Microbiome Resources](resources.md)
+
+- [Interesting research papers with comments](interestingresearchpapers.md)
