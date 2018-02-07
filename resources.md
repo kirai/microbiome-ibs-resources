@@ -2,26 +2,23 @@
 
 ## OneCodex
 
-Allows users to upload their data and analyze it for them.
-https://www.onecodex.com
+Allows users to upload their data and analyze it for them: https://www.onecodex.com
 
 ## Metagenomics analysis platform
 
-Goverment funded 16s analysis platform
-http://metagenomics.anl.gov/mgmain.html?mgpage=analysis
+Goverment funded 16s analysis platform: http://metagenomics.anl.gov/mgmain.html?mgpage=analysis
 
 ## Ubiome
 
-https://www.ubiome.com
+Most used 16s rRNA DTC service: https://www.ubiome.com
 
 ## Viome
 
-https://www.viome.com
+Ubiome competitor: https://www.viome.com
 
 ## Eligo Bioscience
 
-SSAMS: Sequence-Specific Antimicrobials
-https://eligo-bioscience.com/
+SSAMS: Sequence-Specific Antimicrobials: https://eligo-bioscience.com/
 
 # Open Data
 
@@ -94,5 +91,4 @@ https://eligo-bioscience.com/
 
 ## Open Biome
 
-US based community
-http://www.openbiome.org/
+US based open FMT community: http://www.openbiome.org/
