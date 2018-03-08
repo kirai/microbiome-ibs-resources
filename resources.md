@@ -4,6 +4,11 @@
 
 Allows users to upload their data and analyze it for them: https://www.onecodex.com
 
+## Kallotype
+
+Brain gut axis startup: https://www.kallyope.com
+Description: systems biology approach, using a highly integrated platform of cutting-edge technologies, to create a comprehensive map of gut-brain circuits
+
 ## Metagenomics analysis platform
 
 Goverment funded 16s analysis platform: http://metagenomics.anl.gov/mgmain.html?mgpage=analysis
