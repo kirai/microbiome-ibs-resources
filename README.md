@@ -7,3 +7,5 @@ Index of files:
 - [General Microbiome Resources](resources.md)
 
 - [Interesting research papers with comments](interestingresearchpapers.md)
+
+- [New research SIBO 2023](sibo2023.md)
