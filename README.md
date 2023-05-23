@@ -9,3 +9,5 @@ Index of files:
 - [Interesting research papers with comments](interestingresearchpapers.md)
 
 - [New research SIBO 2023-2024](sibo2024.md)
+
+- [SIBO doctors] (sibodoctors.md)
