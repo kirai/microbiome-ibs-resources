@@ -10,4 +10,4 @@ Index of files:
 
 - [New research SIBO 2023-2024](sibo2024.md)
 
-- [SIBO doctors] (sibodoctors.md)
+- [SIBO doctors](sibodoctors.md)
